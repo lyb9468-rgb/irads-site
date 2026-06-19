@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lyb9468-rgb.github.io/irads-site/sitemap-index.xml
